@@ -1,0 +1,21 @@
+# Python Stuff # - see bootstrap.sh
+mysql-python
+mysqlclient
+evelink
+dnspython
+passlib
+requests>=2.9.1
+bcrypt
+zeroc-ice
+slugify
+requests-oauthlib
+
+# Django Stuff #
+django==1.6.5
+django-evolution
+django-bootstrap-form
+django-celery
+
+git+git://github.com/nikdoof/python-ts3.git
+git+git://github.com/seamus-45/openfire-restapi.git
+git+https://github.com/ArchipelProject/xmpppy
